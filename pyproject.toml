@@ -22,6 +22,7 @@ mypy = "^1.17.0"
 ipython = "^9.4.0"
 notebook = "^7.4.4"
 pre-commit = "^4.2.0"
+pre-commit-hooks = "^5.0.0"
 
 [tool.isort]
 profile = "black"  # 让 isort 格式兼容 black，防止冲突
